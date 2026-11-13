@@ -1,0 +1,13 @@
+/.vscode/
+/var/*
+!/var/.htaccess
+/uploads/*
+!/uploads/.htaccess
+/anh-bao-cao/
+/anh-bao-cao.zip
+*.log
+.env
+.env.*
+!.env.example
+Thumbs.db
+.DS_Store
